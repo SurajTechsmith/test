@@ -1,5 +1,0 @@
-{{#user}}
-Name: Suraj Yadav
-Skills: HTML, CSS, JS, React.js
-Email: surajyadav27092001@gmail.com
-{{/user}}
